@@ -13,9 +13,9 @@
 
 # Answer:
 
-*<h1>to <h6>tags define headings of varying importance, with <h1>being the most significant and <h6>the least. Headings structure the document content and improve accessibility for screen readers.
+1.<h1>to <h6>tags define headings of varying importance, with <h1>being the most significant and <h6>the least. Headings structure the document content and improve accessibility for screen readers.
 
-*The <b>tag (bold) is a presentational tag that simply makes the text bold visually. However, it does not convey any semantic meaning about the content's importance. Modern practice favors semantic tags like <strong>for strong emphasis, as it indicates importance to search engines and screen readers.
+2.The <b>tag (bold) is a presentational tag that simply makes the text bold visually. However, it does not convey any semantic meaning about the content's importance. Modern practice favors semantic tags like <strong>for strong emphasis, as it indicates importance to search engines and screen readers.
 
 
 # Question 03. How do you create a hyperlink in HTML?
