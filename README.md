@@ -9,16 +9,7 @@
 
 
 
-# Question 02. Explain the difference between <h1>and <b>tags.
-
-# Answer:
-
-1.<h1>to <h6>tags define headings of varying importance, with <h1>being the most significant and <h6>the least. Headings structure the document content and improve accessibility for screen readers.
-
-2.The <b>tag (bold) is a presentational tag that simply makes the text bold visually. However, it does not convey any semantic meaning about the content's importance. Modern practice favors semantic tags like <strong>for strong emphasis, as it indicates importance to search engines and screen readers.
-
-
-# Question 03. How do you create a hyperlink in HTML?
+# Question 02. How do you create a hyperlink in HTML?
 
 # Answer:
 
@@ -28,7 +19,7 @@
 
 
 
-# Question 04. How do you create an image in HTML?
+# Question 03. How do you create an image in HTML?
 
 # Answer:
 
@@ -38,18 +29,8 @@
 
 
 
-# Question 05. Explain the difference between <table>and <div>tags.
 
-# Answer:
-
-*<table>defines a tabular data structure with rows ( <tr>) and cells ( <td>or <th>). It's semantic and ideal for presenting data in a grid format.
-
-*<div>is a generic container element for grouping content. It doesn't have a specific meaning but can be used with classes and styles to achieve various layouts.
-
-
-
-
-# Question 06. How do you create comments in HTML?
+# Question 04. How do you create comments in HTML?
 
 # Answer:
 
@@ -57,7 +38,7 @@
 
 
 
-# Question 07. What is the purpose of the DOCTYPEdeclaration in HTML?
+# Question 05. What is the purpose of the DOCTYPEdeclaration in HTML?
 
 # Answer:
 
@@ -65,15 +46,8 @@
 
 
 
-# Question 08. How do you validate your HTML code?
 
-# Answer:
-
-*There are online tools and browser developer tools that can validate your HTML code for any errors or syntax issues. Tools like the W3C Markup Validation Service can help ensure your code adheres to the HTML standard.
-
-
-
-# Question 09. Explain the difference between idand classattributes in HTML.
+# Question 06. Explain the difference between idand classattributes in HTML.
 
 # Answer:
 
@@ -83,7 +57,7 @@
 
 
 
-# Question 10. How do you create a responsive layout using HTML?
+# Question 7. How do you create a responsive layout using HTML?
 
 # Answer:
 
