@@ -31,6 +31,7 @@
 # Question 04. How do you create an image in HTML?
 
 # Answer:
+
 *Use the <img>tag with the srcattribute specifying the image source (URL or path) and the altattribute providing alternative text for accessibility and SEO.
 
 <img src="image.jpg" alt="A beautiful sunset">
@@ -51,6 +52,7 @@
 # Question 06. How do you create comments in HTML?
 
 # Answer:
+
 *Use `` syntax. Comments are ignored by the browser but are helpful for developers to explain code sections or provide instructions.
 
 
